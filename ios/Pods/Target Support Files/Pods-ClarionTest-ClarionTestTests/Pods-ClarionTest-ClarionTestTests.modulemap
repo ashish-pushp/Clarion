@@ -1,0 +1,6 @@
+module Pods_ClarionTest_ClarionTestTests {
+  umbrella header "Pods-ClarionTest-ClarionTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
